@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi there 👋
+
+Jsem vývojář se zaměřením na Javu a front-end.
+
+🌱 Aktuálně se zdokonaluji v Javě.
 
 <!--
 **JagosMarek/JagosMarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
